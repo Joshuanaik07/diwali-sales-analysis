@@ -29,5 +29,5 @@ Power BI dashboard created to visualize:
 - State-wise performance
 - Product category trends
 
-## 🚀 Outcome
+##  Outcome
 This project demonstrates the ability to clean, analyze, and visualize data to extract meaningful business insights.
